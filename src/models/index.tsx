@@ -1,0 +1,3 @@
+interface OpenAIQuery {
+    text:string
+}
